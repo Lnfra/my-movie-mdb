@@ -10,9 +10,15 @@
   "author": "Prima Aulia Gusta",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^0.8.7",
     "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
     "express": "^4.14.0",
+    "express-jwt": "^3.4.0",
+    "express-unless": "^0.3.0",
+    "jsonwebtoken": "^7.1.9",
     "mongoose": "^4.5.9",
+    "morgan": "^1.7.0",
     "supertest": "^2.0.0"
   },
   "devDependencies": {
